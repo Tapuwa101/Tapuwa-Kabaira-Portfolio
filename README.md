@@ -1,58 +1,94 @@
 # Hi, I'm Tapuwa Kabaira 👋
 
-Aspiring Data Scientist | Machine Learning Enthusiast | Tech Innovator
+Data Scientist focused on building AI systems that deliver real-world outcomes.
 
- ## 🌟 About Me
+---
 
-I am a **Data Science major** with a **minor in Computer Science and Mathematics**, graduating in **May 2025**. Driven by a passion for leveraging **technology to solve real-world challenges**, I have gained hands-on experience in **machine learning, data engineering, and AI-driven solutions**. My work includes developing an **automated website categorization model with Verizon** and participating in the **AI Studio Challenge**, where I explored **web scraping, NLP, and predictive modeling**. As an **international student from Zimbabwe**, I bring a **diverse perspective, a problem-solving mindset, and a strong commitment to innovation** in the evolving tech landscape.
+## 🌟 About Me
 
-📬 Let's Connect:
+I recently graduated from Clark University with a degree in Data Science and a minor in Computer Science and Mathematics.
 
-Email: tapuwakabaira@gmail.com
+My work sits at the intersection of machine learning, data engineering, and AI systems, with a strong focus on **validation, monitoring, and ensuring models actually work in production**.
 
-LinkedIn: https://www.linkedin.com/in/tapuwakabaira/
+I’ve built large-scale, real-world systems including:
+- A **10M+ datapoint analytics platform** for NYC bus operations  
+- An **end-to-end website classification system** using embeddings and LLM-based approaches at Verizon  
+
+I also completed the **Break Through Tech AI Program (Cornell University & MIT)**, where I applied machine learning to real-world, industry-backed problems.
+
+Across my work, I focus on one thing:  
+**building AI systems that are reliable, interpretable, and aligned with real business outcomes**
+
+Originally from Zimbabwe, I bring a global perspective, a strong problem-solving mindset, and a deep interest in using AI to drive meaningful impact.
+
+---
 
 ## 🚀 Featured Projects
 
-- <ins>**Fall AI Studio Project with Verizon: Automated Text Classification**</ins>
-  
-Developed a text classification model by integrating web scraping, data preprocessing, and sentiment analysis techniques, enabling efficient extraction, processing, and categorization of textual data.
+### 🚌 NYCSBUS — AI-Driven Safety & Operations Monitoring
+Built a production-scale analytics system to detect safety risks and operational inefficiencies across NYC bus routes.
 
-**Objective:** Streamline text categorization to enhance user-friendly website organization.
+**What I Did**
+- Processed **10M+ weekly time-series datapoints** across transportation systems  
+- Designed anomaly detection pipelines to identify risk patterns in crash and route data  
+- Applied **H3 hex binning** to stabilize noisy geographic data  
+- Built validation layers to reduce false alerts and improve reliability  
+- Developed a **Streamlit dashboard** to surface insights for non-technical stakeholders  
 
-**Key Results:** Successfully implemented a BERT-based classification model, achieving a 67% accuracy rate.
+**Impact**
+- Identified high-risk routes and time windows  
+- Informed safety protocols (route adjustments, driver training)  
+- Improved trust in analytics through structured validation and monitoring  
 
-**Next Steps:** Refine the model's performance by exploring advanced architectures and optimization techniques.
+**Tech:** Python, SQL, Streamlit, H3, Time-Series Analysis, Anomaly Detection  
 
-- <ins>**Airbnb Listings Classification: Logistic Regression Model Selection**</ins>  
+---
 
-Developed a **logistic regression model** for classification using Airbnb listing data, incorporating **data preprocessing, hyperparameter tuning, and performance evaluation techniques** to optimize predictive accuracy.  
+### 🤖 Verizon — AI Website Classification System
+Developed an end-to-end machine learning system to classify 10K+ websites using NLP and modern ML techniques.
 
-**Objective:** Optimize **logistic regression model selection** to enhance classification accuracy for Airbnb listings.  
+**What I Did**
+- Built pipelines for **web scraping, cleaning, and labeling** at scale  
+- Applied **embedding-based and LLM-driven approaches** for classification  
+- Compared **BERT vs XGBoost**, analyzing performance tradeoffs  
+- Conducted deep **error analysis** to improve model consistency  
 
-**Key Results:** Successfully trained and evaluated logistic regression models, with **hyperparameter tuning improving model performance**. Plotted **Precision-Recall and ROC curves**, achieving an **AUC score improvement** after feature selection.  
+**Impact**
+- Reduced manual data preparation time by ~60%  
+- Improved classification reliability across noisy, real-world data  
 
-**Next Steps:** Further refine the model by exploring **alternative feature engineering techniques, regularization strategies, and ensemble learning approaches**.
+**Tech:** Python, Selenium, BERT, XGBoost, NLP, Embeddings  
 
-- <ins>**Kalman Filter for Time Series Data Analysis**</ins>
+---
 
-Developed a **Python-based Kalman filter** to analyze and process **over 500,000 hourly and daily data points** from **NOAA and Kaggle**, optimizing data smoothing and prediction accuracy.  
+### ⚙️ GEARS — AI System Validation Framework
+Designed a reusable framework for monitoring and validating AI systems in production environments.
 
-**Objective:** Enhance **data reliability and signal processing** by reducing noise and improving accuracy in time-series datasets.  
+**What It Does**
+- Detects anomalies in system outputs  
+- Validates trends against expected behavior  
+- Flags inconsistencies before they impact decisions  
 
-**Key Results:** Improved **algorithm accuracy by 25%** and **smoothness by 30%** across datasets with varying **noise levels and sampling rates**. Fine-tuned parameters to **increase the signal-to-noise ratio by 20%**, ensuring **robust analysis** for diverse data conditions.  
+**Why It Matters**  
+Most AI systems fail silently. This framework ensures outputs remain **trustworthy, stable, and actionable**.
 
-**Next Steps:** Explore **adaptive Kalman filtering techniques**, integrate **deep learning approaches for enhanced state estimation**, and optimize performance for **real-time applications**.
+---
 
-Among others !!
+## 🛠️ Skills
 
+**AI / ML**  
+LLMs, Prompt Engineering, RAG, Embeddings, BERT, XGBoost  
 
-## 🛠️ Skills and Tools
+**Data & Systems**  
+Python, SQL, ETL Pipelines, Time-Series Analysis, Anomaly Detection  
 
-Languages: Python, SQL, R, Java,HTML
+**Tools**  
+Streamlit, Tableau, Power BI, Git, REST APIs  
 
-Tools: Jupyter, Colab, SUMO
+---
 
-Cloud Platforms: AWS, GCP
+## 📬 Let's Connect
 
+Email: tapuwakabaira@gmail.com  
+LinkedIn: https://www.linkedin.com/in/tapuwakabaira/
 
